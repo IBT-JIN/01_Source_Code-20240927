@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ARK Chat</string>
+
+    <string name="router_home">Home</string>
+    <string name="router_chat">Chat</string>
+
+    <string name="carousel_button">이동하기</string>
+    <string name="author">저자 :</string>
+    <string name="call_no">청구기호 :</string>
+    <string name="default_chat">안녕하세요! 저는 도서관 도우미 TEMI입니다. 어떤 책을 찾고 계신가요?</string>
+    <string name="loanable">대출가능 여부 :</string>
+    <string name="carousel_loanable">가능</string>
+    <string name="carousel_not_loanable">불가능</string>
+    <string name="input_placeholder">"메시지를 입력하세요"</string>
+    <string name="hello_there">안녕하세요! 저는 도서관 도우미 TEMI입니다. 어떤 책을 찾고 계신가요?</string>
+    <string name="some_recommendation_questions">추천질문</string>
+    <string name="question_1">나한테 책 좀 추천해줘</string>
+    <string name="question_2">쉽게 이해할 수 있는 클래식 책 소개해 줘</string>
+    <string name="question_3">어린이 프랑스 여행 책은 뭐야?</string>
+    <string name="question_4">왕자와 사막 여우가 나오는 책을 추천해 줘</string>
+    <string name="question_5">Recommend book with prince, fox, desert</string>
+
+    <string name="goto_question">이 책을 읽고 싶으신가요?</string>
+    <string name="going_to">책의 위치로 이동합니다.</string>
+    <string name="arrived_to">책의 위치에 도착했습니다.\n청구 기호를 확인해 주세요.\n60초 후에 대기 위치로 돌아갑니다.</string>
+    <string name="yes_button">네</string>
+    <string name="no_button">아니요</string>
+    <string name="go_home_button">대기 위치로 돌아가기</string>
+
+    <string name="reg_no">등록번호 :</string>
+    <string name="category">키워드 :</string>
+    <string name="init_query">welcome</string>
+</resources>
